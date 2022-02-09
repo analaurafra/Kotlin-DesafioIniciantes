@@ -1,5 +1,5 @@
 ### Kotlin-DesafioIniciantes 🕹️
-Desafio de Kotlin Iniciantes da Dio 
+Desafio de Kotlin Iniciantes da Dio - Bootcamp NTT Data Android
 
 ------------------------------------
 Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno. 
